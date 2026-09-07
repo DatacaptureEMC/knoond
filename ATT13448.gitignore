@@ -1,0 +1,7 @@
+composer.phar
+/vendor/
+/.idea
+/dens/gtfiles/var/settings/db.inc.php
+/dens/gtfiles/var/logs
+/dens/gtfiles/var/settings/upgrades_development.ini
+/support
