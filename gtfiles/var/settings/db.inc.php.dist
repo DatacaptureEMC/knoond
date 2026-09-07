@@ -1,0 +1,21 @@
+<?php
+//-------------------------------------------------------------------------------------------------
+// Connect parameters for your project
+//-------------------------------------------------------------------------------------------------
+if (getenv('APPLICATION_ENV')) {
+    $env = getenv('APPLICATION_ENV');
+} else {
+    $env = "testing";
+}
+
+if ($env === 'testing') {
+    define ('HOST', 'localhost');
+} else {
+    define ('HOST', 'emcsurvey-p-gw02.erasmusmc.nl');
+}
+
+define ('USER', 'gtdemo');
+define ('PASSWD', 'GSWOOoGWQ3P4jSp299w7');
+define ('DATABASE', 'demo');
+
+?>

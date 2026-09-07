@@ -1,0 +1,2 @@
+patient_id	organization_id	T	N	scoreTNM	Tum1Site	Tum2Loca_1	Tum2Loca_2	Tum2Loca_3	Tum2Loca_4	TumorDiam	Tum4RevLympNodes	Tum4RevLymphL	Tum4RevLymphR	Tum5LymphMeta_1	Tum5LymphMeta_3	Tum5LymphMeta_4	scoreLymphUitslag	scoreLymphUitslagMid	TotalPosLymphNodeL
+10275	70	1	5		8	Y				15	1	27	0	Y					1
